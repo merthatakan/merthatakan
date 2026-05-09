@@ -22,4 +22,4 @@
 
 
 
-                                           *"Turning complex data into actionable product insights."*
+                                        *"Turning complex data into actionable product insights."*
